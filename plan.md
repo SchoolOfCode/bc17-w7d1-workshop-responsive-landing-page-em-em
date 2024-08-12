@@ -4,9 +4,10 @@
 
 # Mobile
 
-- Analyse mobile design and break down into html elements
-- Create html file
-  - Add skeleton html
+- Analyse mobile design and break down into html elements ✅
+- Create html file ✅
+  - Add skeleton html ✅
+  - Start populating html
 - Create CSS file
   - Position elements
   - Style
