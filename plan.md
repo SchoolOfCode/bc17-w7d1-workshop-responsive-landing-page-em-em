@@ -1,6 +1,6 @@
 # The plan
 
-- Import images onto figma board
+- Import images onto figma board ✅
 
 # Mobile
 
@@ -9,4 +9,13 @@
   - Add skeleton html
 - Create CSS file
   - Position elements
-  -
+  - Style
+    - Header
+    - Main
+      - Hero
+      - 'How it works' section
+    - Footer 
+
+# Desktop
+
+- Adjust the styling for desktop (media query)
