@@ -62,5 +62,17 @@
 }
 
 .how-it-works {
-	grid-template-rows: 20px 1fr 1fr 1fr;
+	grid-template-rows: 11em 1fr 1fr 1fr;
+}
+
+.how-it-works h2 {
+    font-size: 7em;
+    text-align: center;
+    font-weight: 400;
+    padding: 2rem 0;
+}
+
+.card-img img {
+    width: 40%;
+    margin: 0 auto;
 }
