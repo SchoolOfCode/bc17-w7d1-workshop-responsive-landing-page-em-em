@@ -7,15 +7,15 @@
 - Analyse mobile design and break down into html elements ✅
 - Create html file ✅
   - Add skeleton html ✅
-  - Start populating html
+  - Start populating html ✅
 - Create CSS file
-  - Position elements
+  - Position elements ✅
   - Style
-    - Header
+    - Header ✅
     - Main
-      - Hero
+      - Hero ✅
       - 'How it works' section
-    - Footer 
+    - Footer
 
 # Desktop
 
